@@ -1,0 +1,7 @@
+# Email login with <username> and <password>
+* Click login button
+* Select email as login type
+* Set email <username>
+* Set password <password>
+* Click login button then check that user is logged in
+
